@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Akshaya Baalaji Senthilraj</h1>
 <h3 align="center">A proactive and fast learning Data Engineer with expertise in Databricks , Spark , Hadoop , Sqoop , Hive , C and C++ . Passionate about contributing to innovative Big Data projects and committed to continuous learning .</h3>
 
